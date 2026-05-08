@@ -100,24 +100,6 @@ The following traffic categories were included in the experiments:
 
 ---
 
-## Project Structure
-
-```text
-project/
-│
-├── datasets/
-├── pcap_files/
-├── preprocessing/
-├── models/
-├── visualizations/
-├── results/
-├── train_models.py
-├── unsw_evaluation.py
-└── README.md
-```
-
----
-
 ## Technologies Used
 
 * Python
